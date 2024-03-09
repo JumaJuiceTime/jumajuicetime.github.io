@@ -1,4 +1,9 @@
-Elven pantheon, elvish sept
+layout: post
+title: "Lore24 Day 1/366"
+date: 2024-01-01 hh:mm:ss -0000
+categories: Lore24 Religion
+
+# Elven pantheon, elvish sept
 
     Oktos, the sky father, philosophy, light, weather
         Lawful
