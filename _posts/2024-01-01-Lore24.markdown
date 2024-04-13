@@ -1,0 +1,27 @@
+---
+layout: post
+title: "Lore24 Day 1/366"
+date: 2024-01-01 03:03:03 -0300
+categories: Lore24 Religion
+---
+
+# Elven pantheon, elvish sept
+
+    Oktos, the sky father, philosophy, light, weather
+        Lawful
+    Tersa, earth mother, sea, harvest, travel, wilderness
+        Neutral
+    Jul, hearth/home, hunting, arts, wisdom, protection, warfare
+        Lawful
+    Margon, war, violence, sea, (Margon's March)
+        Neutral
+    Sepele, death/life cycle, guardian of gateways, balance (Self devouring serpent)
+        Neutral
+    Apera, moons, night, secrets, magic (2 shifted phases, red & blue tinted)
+        Neutral
+    The Black Star?
+        Chaos
+
+Perhaps not finalized, but I iterated on a previous list and have reached level of acceptance towards it.
+
+The elven sept was adopted by humanity.

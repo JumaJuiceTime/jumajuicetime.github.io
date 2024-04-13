@@ -1,0 +1,126 @@
+---
+layout: page
+title: Factions
+permalink: /pages/factions/
+---
+# Factions
+
+Factions are **large forces** outside the
+control of the players. They help
+create a feeling of a **living world**.
+
+Pick or create 3-4 factions to be the
+major powers within your hexcrawl.
+
+## Using factions
+
+Factions have goals they are trying
+to complete and resources they
+can utilise towards the goal’s
+completion. Goals should interact
+with other factions or compete for
+similar resources.
+
+**Resources** reflect the power and
+influence of the faction within the
+world.
+
+Each **goal** requires 2-5 progress
+marks [] to be completed, depending on its complexity.
+
+## Goal progression
+
+**Between sessions**, each faction will
+work towards their current goal.
+
+**Roll d6**, then adjust the value:
+For each **relevant resource** the
+faction has, **add 1** to the result.
+
+If a rival faction is targeted by the goal,
+subtract 1 from the result for each of
+that faction’s relevant resources.
+• On final result of **4-5**, mark **1 progress** toward the goal.
+• On a **6+**, mark **2 progress**.
+
+When a faction **completes a goal**,
+add a **new resource** to represent
+their increased power and influence.
+
+If the goal reduces another faction’s
+power and influence, remove or
+change one of its resources.
+
+As factions work towards and com-
+plete their goals, update your map
+to show waxing and waning power,
+and add hints of current goals to
+your **rumour table**.
+
+## Player interference
+
+As the players interact with factions,
+show **signs** of the **current goals**
+they are working towards.
+
+Players should have opportunities to
+interact with the factions, to thwart
+or help them compete their goals.
+
+Factions may attempt to recruit the
+help of players and players may
+interfere with the faction’s progress.
+
+If the players successfully **help or
+interfere** in completion of a goal,
+mark or erase **1-3 progress marks**,
+depending on the scale of the player
+interference.
+
+If players directly attack a faction
+and significantly affect their power,
+this may require you to remove or
+re-write a faction’s resource.
+
+### Bandits
+#### Resources
+
+• Ruthless gang
+
+• Secret hideout
+#### Goals
+
+[] [] Dominate a trade route
+
+[] [] [] Establish protection racket
+
+[] [] [] [] Capture a fortress
+
+### Cultists
+#### Resources
+
+• Poorly-understood eldritch power
+
+• Clandestine insiders
+#### Goals
+
+[] [] [] Recruit the vulnerable
+
+[] [] [] Steal powerful artifact
+
+[] [] [] [] [] Summon ancient god
+
+### Prince
+#### Resources
+
+• Chivalric knights
+
+• Hidden fortress
+
+#### Goals
+
+[] [] Hold joust to choose a champion
+
+[] [] [] Kidnap historian
+
+[] [] [] [] [] Find the Grail
