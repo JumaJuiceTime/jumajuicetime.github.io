@@ -3,7 +3,6 @@ title: Factions
 permalink: /factions/
 layout: single
 ---
-# Factions
 
 Factions are **large forces** outside the
 control of the players. They help
