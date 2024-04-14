@@ -1,6 +1,7 @@
 ---
 title: Factions
 permalink: /factions/
+layout: single
 ---
 # Factions
 
