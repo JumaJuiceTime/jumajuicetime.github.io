@@ -1,8 +1,11 @@
 ---
-layout: post
 title: "Lore24 Day 1/366"
-date: 2024-01-01 03:03:03 -0300
-categories: Lore24 Religion
+excerpt_separator: "<!--more-->"
+categories: 
+  - Blog
+  - Lore24 
+  - Religion
+tags:
 ---
 
 # Elven pantheon, elvish sept
@@ -21,6 +24,8 @@ categories: Lore24 Religion
         Neutral
     The Black Star?
         Chaos
+
+<!--more-->
 
 Perhaps not finalized, but I iterated on a previous list and have reached level of acceptance towards it.
 
