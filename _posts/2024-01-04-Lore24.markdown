@@ -6,6 +6,7 @@ categories:
   - Lore24 
   - Religion
 tags:
+  - Elves
 ---
 
 # 1 Great story
