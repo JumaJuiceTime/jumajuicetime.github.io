@@ -1,8 +1,11 @@
 ---
-layout: post
 title: "Lore24 Day 2/366"
-date: 2024-01-02 03:03:03 -0300
-categories: Lore24 Religion
+excerpt_separator: "<!--more-->"
+categories: 
+  - Blog
+  - Lore24 
+  - Religion
+tags:
 ---
 
 Ýrn, the one eyed wolf, can see through the eyes of any wolf in the north. One of the wolf's eyes turns cloudy white, while Ýrn is observing.

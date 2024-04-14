@@ -1,9 +1,13 @@
 ---
-layout: post
 title: "Lore24 Day 3/366"
-date: 2024-01-03 03:03:03 -0300
-categories: Religion Lore24
+excerpt_separator: "<!--more-->"
+categories: 
+  - Blog
+  - Lore24 
+  - Religion
+tags:
 ---
+
 # Elven sept family tree
 
 - Wod & Daitis
