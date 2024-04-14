@@ -60,11 +60,11 @@ plugins:
 author:
   name   : "Swords & Sorcery"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My site for fantasy roleplaying."
+  bio    : "My site for fantasy roleplaying & worldbuilding."
   #links:
 footer:
   #links:
-    - l
+   # - l
 
 defaults:
   # _posts
