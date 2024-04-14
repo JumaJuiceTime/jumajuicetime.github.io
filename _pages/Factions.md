@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Factions
-permalink: /pages/factions/
+permalink: /factions/
 ---
 # Factions
 
