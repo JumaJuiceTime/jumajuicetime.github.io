@@ -72,4 +72,5 @@ title: "Ideas"
   - Family in society
   - Free will vs fate
   - Evil magic or evil people?
+  - The true cost of religious sacrifice vs the benefit
 
