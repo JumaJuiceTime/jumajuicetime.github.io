@@ -19,18 +19,17 @@ title: "Ideas"
 
 - Artifacts
     Joyeuse
-    - Regal - Talk bonus?
-    - Invigorating - regain strain/effort?
+    - Regal: Talk bonus?
+    - Invigorating: regain resource?
     Durandal
-    - Strong flame - flaming blade?
-    - Enduring - ignore or resist a hit
-    - Master of stone - stone sword?
-    curteina
+    - Strong flame: flaming blade?
+    - Enduring: ignore or resist a hit
+    - Master of stone: stone sword?
+    Curteina
     - Square/broken tip
     - Short sword
     Oriflamme
-    - Red banner on a lance
-        its red colour being symbolic of cruelty and ferocity
+    - Red banner on a lance: its red colour being symbolic of cruelty and ferocity
     - Great Honour
     - Morale boost
 
@@ -56,3 +55,17 @@ title: "Ideas"
     - Blackened
     - Slightly twisted/bent
     - Head produces a fiery light near greater beings
+
+The eyeless librarians
+
+Vithrack - Jorogumo?
+
+Vivec style water city
+
+World tree gives elves power
+- Sunless citadel houses the profane flame. Profane flame was brought out of the in-between. Gulthias tree contains a portal to the in-between.
+- World tree saplings
+- Fey repelled by iron standing stones.
+
+
+
