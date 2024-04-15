@@ -66,6 +66,9 @@ title: "Ideas"
 - Setting themes
   - Colonialism
   - Mysticism relating to stars
+    - No other planets, so stars are representations of power?
+    - Where do the mirrors lead?
+  - Truth in False cosmological models
   - Myth
   - Corruption of power
   - Gender roles
