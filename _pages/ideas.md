@@ -76,4 +76,14 @@ title: "Ideas"
   - Free will vs fate
   - Evil magic or evil people?
   - The true cost of religious sacrifice vs the benefit
+  - Classical era
+    - Post war or campaign
+  - Urae are lizardfolk
+    - Dragonborn hold a place of honor
+      - Created through a ritual?
+  - Elven Oracles
+  - Blood mist
+    - Tied to lunar or star activity?
+      - A Red star?
+  - Medieval armies were 1-6k at times, even led by a king
 
