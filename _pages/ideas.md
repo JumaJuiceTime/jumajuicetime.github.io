@@ -3,7 +3,7 @@ permalink: /ideas/
 title: "Ideas"
 ---
 
-- Elven sorcerer lords
+- Sorcerer lords
 - Astrology
     - The Northern Shield
     - The shield is seen in the north when on Enall. Summertime
@@ -16,40 +16,7 @@ title: "Ideas"
     - The Dragon
     - The Noose
     - The Hammer
-
-- Artifacts
-  - Joyeuse
-    - Regal: Talk bonus?
-    - Invigorating: regain resource?
-  - Durandal
-    - Strong flame: flaming blade?
-    - Enduring: ignore or resist a hit
-    - Master of stone: stone sword?
-  - Curteina
-    - Square/broken tip
-    - Short sword
-  - Oriflamme
-    - Red banner on a lance: its red colour being symbolic of cruelty and ferocity
-    - Great Honour
-    - Morale boost
-
-    - "Dark-minded man!"
-    The Maid of Orleans answered, "to act well
-    Brings with itself an ample recompense.
-    I have not reared the oriflamme of death —
-    Now God forbid! The banner of the Lord
-    Is this; and, come what will, me it behooves,
-    Mindful of Him whose minister I am,
-    To spare the fallen foe: that gracious God
-    Sends me a messenger of mercy forth,
-    Sends me to save this ravaged realm of France,
-    To England friendly as to all the world;
-    Only to those an enemy, whose lust
-    Of sway makes them the enemies of man."
-    Ulvetann
-    - Spear "Wolf's Tooth"
-    - Immune to dragon fear
-    Godslayer
+    - Godslayer
     -  Spear
     -  a key
     - Blackened
@@ -59,12 +26,10 @@ title: "Ideas"
 - The eyeless librarians
 - Vithrack - Jorogumo?
 - Vivec style water city
-- World tree gives elves power
+- World tree
 - Sunless citadel houses the profane flame. Profane flame was brought out of the in-between. Gulthias tree contains a portal to the in-between.
 - World tree saplings
-- Fey repelled by iron standing stones.
 - Setting themes
-  - Colonialism
   - Mysticism relating to stars
     - No other planets, so stars are representations of power?
     - Where do the mirrors lead?
@@ -76,14 +41,14 @@ title: "Ideas"
   - Free will vs fate
   - Evil magic or evil people?
   - The true cost of religious sacrifice vs the benefit
-  - Classical era
+  - Late Bronze Age era
     - Post war or campaign
   - Urae are lizardfolk
     - Dragonborn hold a place of honor
       - Created through a ritual?
-  - Elven Oracles
+  - Oracles
   - Blood mist
     - Tied to lunar or star activity?
       - A Red star?
-  - Medieval armies were 1-6k at times, even led by a king
+
 
