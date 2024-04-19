@@ -6,6 +6,26 @@ categories:
   - Lore24 
   - Religion
 tags:
+
 ---
 
-Ýrn, the one eyed wolf, can see through the eyes of any wolf in the north. One of the wolf's eyes turns cloudy white, while Ýrn is observing.
+# Pantheon, the sept
+
+    Oktos, the sky father, philosophy, light, weather
+        Lawful
+    Tersa, earth mother, sea, harvest, travel, wilderness
+        Neutral
+    Jul, hearth/home, hunting, arts, wisdom, protection, warfare
+        Lawful
+    Margon, war, violence, sea, (Margon's March)
+        Neutral
+    Sepele, death/life cycle, guardian of gateways, balance (Self devouring serpent)
+        Neutral
+    Apera, moons, night, secrets, magic (2 shifted phases, red & blue tinted)
+        Neutral
+    The Black Star?
+        Chaos
+
+<!--more-->
+
+Perhaps not finalized, but I iterated on a previous list and have reached level of acceptance towards it.

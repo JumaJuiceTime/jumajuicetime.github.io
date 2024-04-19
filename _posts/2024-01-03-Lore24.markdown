@@ -6,10 +6,10 @@ categories:
   - Lore24 
   - Religion
 tags:
-  - Elves
+  - 
 ---
 
-# Elven sept family tree
+# sept family tree
 
 - Wod & Daitis
   - Sepele

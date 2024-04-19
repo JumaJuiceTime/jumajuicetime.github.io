@@ -4,30 +4,19 @@ excerpt_separator: "<!--more-->"
 categories: 
   - Blog
   - Lore24 
-  - Religion
+  - Setting
 tags:
-  - Elves
 ---
 
-# Elven pantheon, elvish sept
+# Setting Truths
 
-    Oktos, the sky father, philosophy, light, weather
-        Lawful
-    Tersa, earth mother, sea, harvest, travel, wilderness
-        Neutral
-    Jul, hearth/home, hunting, arts, wisdom, protection, warfare
-        Lawful
-    Margon, war, violence, sea, (Margon's March)
-        Neutral
-    Sepele, death/life cycle, guardian of gateways, balance (Self devouring serpent)
-        Neutral
-    Apera, moons, night, secrets, magic (2 shifted phases, red & blue tinted)
-        Neutral
-    The Black Star?
-        Chaos
+- Late bronze age. Greece, Egypt, Africa
+- Gods exist, but their impact is limited. Communication is difficult. Results are ambiguous. Gods can manifest through great effort.
+- Magic is something a select few have access to. Corrupting? Dangerous?
+-Culture is stratified, but movement can occur.
+- Each culture has the basic resources needed, but ech lacks a key resource and must interact with another culture to gain it.
+- Civilization has progressed to city states, kingdoms, and even small empires.
+- Economies are interlinked. Culters have specialized industries and depend on one another.
+- The land experiences intermittent war.
+- Ice age megafauna exists
 
-<!--more-->
-
-Perhaps not finalized, but I iterated on a previous list and have reached level of acceptance towards it.
-
-The elven sept was adopted by humanity.
