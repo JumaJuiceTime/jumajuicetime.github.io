@@ -1,0 +1,23 @@
+---
+title: "Lore24 Day 4/366"
+excerpt_separator: "<!--more-->"
+categories: 
+  - Blog
+  - Lore24 
+  - Religion
+tags:
+---
+
+# 1 Great story
+Wod & Daitis rule from the great world tree. The fey execute a plot to overthrow the king and queen. Wod & Daitis are killed and their 3 daughters are exiled.
+Tersa wanders the world for many years, until she meets Oktos. He takes her in and they create a life together. Many years later their children Jul and Margon are reached out to by Sepele and Apera, which sets in motion the reclamation of the kingdom. 
+The fey are banished. The Children of Wod & Daitis split their birthright. Tersa takes the throne and controls the earth. Sepele becomes the guardian of gateways and the death/life cycle. Apera becomes the keeper of magic and secrets.
+
+<!--more-->
+
+- Sepele's husband's death steers her to her domain.
+- Apera becomes split/ a duo when they become moons-blessed.
+
+
+Dael Kingsmill, in a video on pantheons, proposes that 1 great story is what you need to create your foundation. 4 roles need fulfilled, Authority, Harbor, Purpose, Treachery.
+The above outline places Tersa as authority, Oktos as harbor, Jul & Margon as purpose, and the unnamed fey as treachery.
