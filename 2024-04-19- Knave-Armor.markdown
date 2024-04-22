@@ -24,8 +24,8 @@ The typical pieces of a panoply only accomodate for 5 pieces of armor. The gambe
 
 - Shield (100c) : Shield
 - Helmet (100c) : Helmet
-- Gambeson (300c) : Linothorax
-- Mail shirt (900c) : 
+- Gambeson (300c) : 
+- Mail shirt (900c) : Linothorax
 - Breastplate (1800c) : Cuirass
 - Arm plate (900c) : Arm plate
 - Leg plate (900c) : Leg armor
