@@ -14,6 +14,6 @@ Uses
 - +d6 to damage roll
 - Absorb d6 damage
 
-May use multiple dice at the same time
+May use multiple dice at the same time.
 
-<!--more-->
+
