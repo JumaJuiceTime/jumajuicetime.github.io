@@ -13,3 +13,7 @@ tags:
   - The empire breaks and the 5 kingdoms defeat the eternals by operating as equals
   - The old emperor creates the Spears of the Dawn to handle eternal remnants.
     - The Spears of the Dawn are not organized, just scattered individuals and groups
+
+# To include
+  - Great rift valley
+  - Epic of Sundiata
