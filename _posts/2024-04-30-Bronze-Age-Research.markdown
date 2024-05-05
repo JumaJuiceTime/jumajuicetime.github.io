@@ -10,18 +10,14 @@ tags:
 Disease can cripple cities.
 1:1 retaliation for crimes.
 
-### Bronze Age Collapse
+# Bronze Age Collapse
 Myceneans destroy Troy leading to an economic collapse. Civilization regresses from kingdoms to villages.
 Mycenean refugees spread throughout the mediterranean. Cultures on the eastern mediterranean collapse due to the economic collapse of greece and invasion from further east. Egypt survives but suffers a reduction in power.
   - Great cities in ruins
   - Warlords abound
 
-### Egypt
-  - Fertile due to Nile flooding
-  - Transport/communication via the Nile
-  - Abundance of gold
 
-### Mesopotamia
+# Mesopotamia
 Valley with 2 rivers and tributaries. This created a fertile land that was hard to unify.
 Flooded randomly. Entire cities could be washed away.
 
@@ -48,17 +44,24 @@ Tiamat: deity of salt water
   - Created astronomy and trigonometry
   - Understood sickness is contagious
 
-## Puzrish Dagan
+### Puzrish Dagan
   - Treasury city for the Ur empire
 
-### Persia
+### Epic of Gilgamesh
+  - Gilgamesh is a rude dude,
+  - Gods create Enkidu
+  - Gilgamesh and Enkidue fight and become friends
+  - They kill a monster created by the gods
+  - 
+
+# Persia
 ## Achaemenid Empire
   - Treated conquered subjects as equals
   - Egalitarian
   - Respected the cultures within the empire
   - Satraps governed territories, some could be harsher
 
-### Greece
+# Greece
 
 ## Minoans
 Relied on seafaring supremacy.
@@ -83,10 +86,26 @@ Destroyed Troy, leading to an economic collapse of the region and an exodus of m
 
 ## Athens
 Classes by wealth instead of birth.
-10 tribes created, comprised of 3rds. Each 3rd representing a class of citizen.
-Council of 500, 1 year terms
+# Democracy
+- 10 tribes created, comprised of 3rds. Each 3rd representing a class of citizen.
+- Council of 500, 1 year terms
 
-### Africa
+# Africa
 
-## Epic of Sundiata (Not bronze age)
+## Egypt
+  - Fertile due to Nile flooding
+  - Transport/communication via the Nile
+  - Conquer Nubia
+    - Abundance of gold
+  - Locations
+    - Valley of the kings
+    - Abu Simbel
+
+### Epic of Sundiata (Not bronze age)
 An epic that is recognized as national mythology by several african nations.
+
+# India
+- 
+
+# China
+- Yellow River Valley
