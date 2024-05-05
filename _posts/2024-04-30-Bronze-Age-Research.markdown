@@ -52,7 +52,24 @@ Tiamat: deity of salt water
   - Gods create Enkidu
   - Gilgamesh and Enkidue fight and become friends
   - They kill a monster created by the gods
-  - 
+  - Ishtar (goddess) wants to marry Gilgamesh, but is rejected
+  - Ishtar sends the bull of heaven to attack Uruk
+  - Gilgamesh and Enkidu defeat the bull and make sacrifices to various gods, with its parts
+  - Gods hold a council and decide Enkidu should die as reparation for the death of 2 divine creatures
+  - Enkidue dies of an illness.
+  - Gilgamesh meets Unipishten,
+  - Unipishten had built an ark after a vision from a god. He gained immortality from the gods 
+  - Gilgamesh fails a trial to stay awake, in the pursuit of immortality
+    - 7 days, in an attempt to stave off death
+  - Unipishten tells tale of a plant on the ocean floor that restores youth
+  - - Gilgamesh finds a flower, but loses it when a snake eats it
+  - Gilgamesh returns to Uruk
+  - He sings the praises of Uruk
+  - Gilgamesh gains immortality through the epic of gilgamesh
+  - Lion/bird
+  - Serpent men
+  - Stone/crystal trees
+  - stone men
 
 # Persia
 ## Achaemenid Empire
@@ -94,18 +111,56 @@ Classes by wealth instead of birth.
 
 ## Egypt
   - Fertile due to Nile flooding
+  - Irrigation from the Nile
   - Transport/communication via the Nile
+  - Upper & Lower Egypt
+  - Building great tombs initially and great public sites later
+  - Nomarchs: regional rulers
+  - Priesthood vs paroah
+  - Akhenaten: created mono god by a pharoah
+    - only the pharoah could speak with them
+  - Ptolemeic dynasty ruled from Alexandria
+    - Greek ruling class
+    - Honored egyptiant deities
+  - Dynasties would shift, but culture was steady
   - Conquer Nubia
     - Abundance of gold
   - Locations
     - Valley of the kings
     - Abu Simbel
+    - Mortuary temple of Hatshopsut
+    - Ramesseum
+    - Pyramids of Meroe
+    -Karmak temply
+
+  
 
 ### Epic of Sundiata (Not bronze age)
 An epic that is recognized as national mythology by several african nations.
 
 # India
-- 
+- Indus valley
+- Cities built in a grid for airflow
+- sewer systems, public baths, standardized bricks
+- Aryans civilization was ruled by the priest caste, followed by the lords & warriors, farmers, and laborers
+- Reincarnation
+- Prince Siddhartha - Buddha
+- Ashoka - Pillow Edict
+  - He felt bad after sending men to die in war and became a buddhist
+- An Indian empire covered nearly all of modern India after the death of Alexander the Great
+- The empire broke after a couple generations and became an ever changing mass of minor kingdoms & regional empires
+- divine hymns: The Vedas
+- Bhagavod Gita
+- Epics: Ramayana & Mahabharata
 
 # China
-- Yellow River Valley
+- Yellow River Basin
+- 5 semi-divine empires
+- independent cultures
+- practiced divination through animas
+  - Writing on turtle shells & casting into a fire. What breaks is or will be true
+- Divine Mandate
+  - If you rule justly, heaven will support your rule
+  - If you are wicked, you forfeit your power and will be overthrown
+- Dynastic cylce
+  - New empire > Empire ages > Empire starts to fail > Empire is overthrown
