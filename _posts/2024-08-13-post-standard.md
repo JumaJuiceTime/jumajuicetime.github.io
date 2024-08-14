@@ -13,7 +13,7 @@ BARBARIAN WEAPONS
 2. Throwing dagger
 3. Claymore*
 4. Hunting knife
-5. Iwisa
+5. Club
 6. Spear*
 7. Makhaira
 8. Raider’s great axe*
