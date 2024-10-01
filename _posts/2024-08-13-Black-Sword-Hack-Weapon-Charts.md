@@ -12,11 +12,11 @@ tags:
 BARBARIAN WEAPONS
 1. Horn bow*
 2. Throwing blade
-3. *
-4. 
+3. Sling
+4. Copper blade
 5. Club
 6. Spear*
-7. Sickle Sword
+7. Stone blade
 8. Crescent axe*
 9. Warhammer
 
