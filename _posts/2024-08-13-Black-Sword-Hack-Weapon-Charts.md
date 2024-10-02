@@ -18,7 +18,7 @@ BARBARIAN WEAPONS
 6. Spear*
 7. Stone blade
 8. Crescent axe*
-9. Warhammer
+9. Javelin
 
 CIVILIZED WEAPONS
 1. Cestus
@@ -27,7 +27,7 @@ CIVILIZED WEAPONS
 4. Executioner's axe*
 5. Disc mace
 6. Khopesh
-7. Sword
+7. Bronze Sword
 8. Makhaira
 9. Pilgrilm’s staff*
 
