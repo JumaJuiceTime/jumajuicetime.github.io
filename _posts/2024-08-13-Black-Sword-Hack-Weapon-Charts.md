@@ -33,7 +33,7 @@ CIVILIZED WEAPONS
 
 DECADENT WEAPONS
 1. Sickle
-2. Crossbow*
+2. *
 3. Scepter*
 4. Maul
 5. Kopis
