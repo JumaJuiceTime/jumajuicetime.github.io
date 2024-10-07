@@ -29,7 +29,7 @@ CIVILIZED WEAPONS
 6. Khopesh
 7. Bronze Sword
 8. Makhaira
-9. Pilgrilm’s staff*
+9. Pilgrim’s staff*
 
 DECADENT WEAPONS
 1. Sickle
